@@ -38,4 +38,4 @@ Mean Squared Error: 12000000
 ```
 
 ## Author
-Aditya
+Aditya Singh
